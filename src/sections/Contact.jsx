@@ -64,7 +64,7 @@ export default function Contact() {
               <div>
                 <p className="text-sm text-gray-400">Phone</p>
                 <a href="tel:8709301587" className="text-white">
-                  +91 89093 01589
+                  +91 8709301587
                 </a>
               </div>
             </div>

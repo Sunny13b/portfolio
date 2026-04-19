@@ -8,7 +8,14 @@ export default function Projects() {
       tech: "React.js • Node.js • Express.js",
       desc: "Full-stack URL shortener with dynamic link generation and fast redirection system.",
       live: "https://bitlink-mauve.vercel.app/",
-      github: "https://github.com/klrahul/bitlink"
+      github: "https://github.com/sunny13b/bitlink"
+    },
+      {
+      title: "Fake News Detection ML Model",
+      tech: "Python • Jupyter Notebook",
+      desc: "Full-stack URL shortener with dynamic link generation and fast redirection system.",
+      live: "https://bitlink-mauve.vercel.app/",
+      github: "https://github.com/sunny13b/bitlink"
     },
     {
       title: "iTask",

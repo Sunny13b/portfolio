@@ -10,12 +10,12 @@ export default function Projects() {
       live: "https://bitlink-mauve.vercel.app/",
       github: "https://github.com/sunny13b/bitlink"
     },
-      {
+    {
       title: "Fake News Detection ML Model",
       tech: "Python • Jupyter Notebook",
-      desc: "Full-stack URL shortener with dynamic link generation and fast redirection system.",
-      live: "https://bitlink-mauve.vercel.app/",
-      github: "https://github.com/sunny13b/bitlink"
+      desc: "News Detection Model use Tf-Idf vectorizer and Passive Aggressive Classifier to predict news",
+      live: " https://fake-news-detection-h831.onrender.com/",
+      github: "https://github.com/Sunny13b/fake-news-detection"
     },
     {
       title: "iTask",
